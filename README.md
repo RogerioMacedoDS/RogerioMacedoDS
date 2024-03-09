@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RogerioMacedoDS
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on RPA
+- 📫 How to reach me +553199830-9092
